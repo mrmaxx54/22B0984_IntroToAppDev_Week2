@@ -1,16 +1,36 @@
-# budget_tracker2
+# Budget Tracker App
 
-A new Flutter project.
+**The master branch contains all the files of my Budget Tracker App project.**
+
+Welcome to the Budget Tracker App repository! This simple yet powerful app allows you to manage your expenditures by organizing them into categories and keeping track of your spending in each category. You can add, delete, and edit categories and add, delete, and edit specific expenditures within each category. The app also provides you with the total expenditure for each category.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get started with the Budget Tracker App, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+1. Start the app after installing it using the Android Studio emulator.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Add Categories
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To add a new category, click the "Add Category" button and enter the category name.
+
+### Manage Expenditures
+
+- To add an expenditure within a category, click the category name, then click the "Add Expenditure" button, and enter the name of the expenditure and price.
+- To delete an expenditure, click the "Delete" button next to the expenditure.
+
+### View Total Expenditure
+
+The app will automatically calculate and display the total expenditure for each category.
+
+### Manage Categories
+
+- Click the "Delete Category" button next to the category name to delete a category.
+- To edit a category name, click the "Edit Category" button next to the category name.
+
+## Acknowledgements
+
+This app was built with love by Soumitra.
+I have used the NetNinja tutorial on YouTube for reference.
+
+Thank you for using the Budget Tracker App! I hope it helps you manage your finances effectively.
