@@ -1,6 +1,6 @@
 # Budget Tracker App
 
-**The master branch contains all the files of my Budget Tracker App project.**
+**The master branch contains all the files of my Budget Tracker App project and the working video of the app.**
 
 Welcome to the Budget Tracker App repository! This simple yet powerful app allows you to manage your expenditures by organizing them into categories and keeping track of your spending in each category. You can add, delete, and edit categories and add, delete, and edit specific expenditures within each category. The app also provides you with the total expenditure for each category.
 
